@@ -35,3 +35,5 @@
 
 ## 기타 논의 필요
 + 컴포넌트 자동 생성 스크립트에 대해 [링크](https://docs.sooplive.com/front/Sooplive[Web]/Common/create-component-script)
+
+
