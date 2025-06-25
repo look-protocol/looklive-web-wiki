@@ -26,6 +26,8 @@
 + [Cursor Rules](Cursor Rules)
 + [JSDoc](JSDoc)
 
++ [Web FE 코드 규칙](Web FE 코드 규칙)
+
 ## react 코드 규칙
 + react query를 사용한 상태 관리 (논의 필요)-[본사 Docs 링크](https://docs.sooplive.com/front/Sooplive[App]/state-management)
 
