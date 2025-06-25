@@ -20,13 +20,12 @@
 + [Git flow](Git flow)
 
 ## 공통 코드 규칙
++ [Web FE 코드 규칙](Web FE 코드 규칙)
 + [Biome 설정 방법](Biome 설정 방법)
 + [코드 검사 스크립트](코드 검사 스크립트)
 + [좋은 코드를 위한 노력](좋은 코드를 위한 노력)
 + [Cursor Rules](Cursor Rules)
 + [JSDoc](JSDoc)
-
-+ [Web FE 코드 규칙](Web FE 코드 규칙)
 
 ## react 코드 규칙
 + react query를 사용한 상태 관리 (논의 필요)-[본사 Docs 링크](https://docs.sooplive.com/front/Sooplive[App]/state-management)
