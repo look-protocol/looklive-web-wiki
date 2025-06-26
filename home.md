@@ -26,6 +26,7 @@
 + [좋은 코드를 위한 노력](좋은 코드를 위한 노력)
 + [Cursor Rules](Cursor Rules)
 + [JSDoc](JSDoc)
++ [Storybook](Storybook)
 
 ## react 코드 규칙
 + react query를 사용한 상태 관리 (논의 필요)-[본사 Docs 링크](https://docs.sooplive.com/front/Sooplive[App]/state-management)
