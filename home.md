@@ -38,7 +38,7 @@
 + 최소 크기 기준 디자인(논의 필요)
 
 ## 기타 논의 필요
-+ 컴포넌트 자동 생성 스크립트에 대해 [링크](https://docs.sooplive.com/front/Sooplive[Web]/Common/create-component-script)
++ [컴포넌트 자동 생성 스크립트에 대해](https://docs.sooplive.com/front/Sooplive[Web]/Common/create-component-script)
 + [좋은 코드를 위한 노력](좋은 코드를 위한 노력)
 
 
