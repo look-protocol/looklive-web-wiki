@@ -2,14 +2,18 @@
 프리캡 프론트엔드 웹 위키입니다.  
 링크를 통해 아래의 항목에 대한 가이드로 이동하실 수 있습니다.
 
-## GitLab
-+ [GitLab 사용 방법(이슈, 머지)](GitLab 사용 방법)
-+ [MR 파이프라인](MR 파이프라인)
+
 
 ## 기술 스택
 + [Node.js 버전 관리](nvm)
 + [pnpm 버전 관리](Corepack)
 + [Frontend Tech Stack](Frontend Tech Stack)
+
+## CI/CD
++ [Harbor](Harbor)
+### GitLab
++ [GitLab 사용 방법(이슈, 머지)](GitLab 사용 방법)
++ [MR 파이프라인](MR 파이프라인)
 
 ## 모니터링
 + [Sentry](Sentry)
