@@ -30,5 +30,9 @@ docker login dev-registry.afreecatv.com
 ```
 
 push에 대한 커멘드는 우측 상단에 버튼에서 확인하실 수 있습니다.  
-![image](uploads/2714d354873713f83ad4d0780f98a2d9/image.png)
+![image](uploads/2714d354873713f83ad4d0780f98a2d9/image.png)  
 수동으로 push를 진행하신다면 태그를 지정하고 push 해주시면 됩니다.
+
+## pull
+pull은 pull 커멘드 복사 버튼을 이용하시면 간편하게 가능합니다.  
+![image](uploads/16ed009b79f86a24c6f3249adf1dce96/image.png)
