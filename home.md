@@ -11,6 +11,9 @@
 + [pnpm 버전 관리](Corepack)
 + [Frontend Tech Stack](Frontend Tech Stack)
 
+## 모니터링
++ [Sentry](Sentry)
+
 ## 프로젝트 규칙
 + [Web FE 네이밍 컨벤션](Web FE 네이밍 컨벤션)
 + [디렉토리 구조](디렉토리 구조)
