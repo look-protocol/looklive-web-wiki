@@ -17,6 +17,4 @@ Dashboards 탭에서 Freecap-Frontend를 누르시면 프론트엔드 대시보�
 ![image](uploads/abc18e7c6222b117de615f4c0016794b/image.png)
 Performance 탭에서는 요청에 대한 성능을 확인할 수 있습니다.  
 특정 요청에서 비정상적인 지연이 발생한다면 함께 논의가 필요합니다.  
-![image](uploads/f25d28f981ad85f88b6a3540a55996d8/image.png)
-
-
+![image](uploads/f7c69122b9e6cd80e2fd6a115d118c50/image.png)
