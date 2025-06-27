@@ -26,7 +26,6 @@
 + [Web FE 코드 규칙](Web FE 코드 규칙)
 + [Biome 설정 방법](Biome 설정 방법)
 + [코드 검사 스크립트](코드 검사 스크립트)
-+ [좋은 코드를 위한 노력](좋은 코드를 위한 노력)
 + [Cursor Rules](Cursor Rules)
 + [JSDoc](JSDoc)
 + [Storybook](Storybook)
@@ -40,5 +39,6 @@
 
 ## 기타 논의 필요
 + 컴포넌트 자동 생성 스크립트에 대해 [링크](https://docs.sooplive.com/front/Sooplive[Web]/Common/create-component-script)
++ [좋은 코드를 위한 노력](좋은 코드를 위한 노력)
 
 
