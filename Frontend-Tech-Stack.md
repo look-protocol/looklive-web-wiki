@@ -36,12 +36,6 @@
 * Cursor mdc
 * Storybook
 
-## 개념
-* [아토믹 디자인](https://tech.kakaoent.com/front-end/2022/220505-how-page-part-use-atomic-design-system/)
-* Git Flow
-* AngularJS commit convention
-* 코드 퀄리티를 위한 규칙 [링크](https://frontend-fundamentals.com/code-quality/)
-
 ## 문서 관리
 * 노션
 * Docusaurus
