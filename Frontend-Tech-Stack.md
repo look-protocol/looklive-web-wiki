@@ -34,6 +34,7 @@
 * TypeScript
 * Sentry
 * Cursor mdc
+* Storybook
 
 ## 개념
 * [아토믹 디자인](https://tech.kakaoent.com/front-end/2022/220505-how-page-part-use-atomic-design-system/)
@@ -45,6 +46,3 @@
 * 노션
 * Docusaurus
 * GitLab Wiki
-
-## 예정
-* Storybook
