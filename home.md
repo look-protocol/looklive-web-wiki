@@ -17,6 +17,7 @@
 
 ## 모니터링
 + [Sentry](Sentry)
++ [GitLab Webhook](GitLab Webhook)
 
 ## 프로젝트 규칙
 + [Web FE 네이밍 컨벤션](Web FE 네이밍 컨벤션)
