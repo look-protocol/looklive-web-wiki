@@ -53,7 +53,7 @@ Title에는 구현한 기능을 한 문장으로 정리해 주세요.
 기본적으로 설정되어 있는 MR 템플릿을 바탕으로 설명을 작성해 주세요.
 
 이슈에 대한 언급은 '#' 다른 MR에 대한 언급은 '!' 유저에 대한 언급은 '@'를 사용하시면 됩니다.  
-'Close #1' 처럼 이슈를 언급하시면 MR이 머지되었을 때 자동으로 이슈가 Close 됩니다.(안내 링크)[https://git.afreecatv.com/help/user/project/issues/managing_issues.md#closing-issues-automatically]  
+'Close #1' 처럼 이슈를 언급하시면 MR이 머지되었을 때 자동으로 이슈가 Close 됩니다.(이 부분은 프로젝트 설정에서 켜져 있어야 합니다.)[안내 링크](https://git.afreecatv.com/help/user/project/issues/managing_issues.md#closing-issues-automatically)  
 
 기본 템플릿에 체크리스트에 있는 체크리스트를 모두 통과하는지 체크해 주세요.  
 (체크리스트를 통과한다면 MR 생성 이후 체크리스트를 클릭하여 체크해 주시면 됩니다.)
