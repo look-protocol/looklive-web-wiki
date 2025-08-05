@@ -81,7 +81,7 @@ pnpm biome init
 	1. Cursor 에디터 우측 위 설정 버튼을 누릅니다.
 ![setting](uploads/fdab7978cf49a4500b9cffcc8b8e28e5/setting.png)
 	2. Editor Settings로 이동합니다.
-	![editor_settings](uploads/5c2ee259ab6f9f64e8dc555c38822730/editor_settings.png)3. 
+	![editor_settings](uploads/5c2ee259ab6f9f64e8dc555c38822730/editor_settings.png)
 	3. 검색창에 format을 검색합니다.
 	![formatter](uploads/b8f0557ba324fca75065b85e4b1ea0e6/formatter.png)
 	4. Default Formatter를 Biome으로 설정합니다.
