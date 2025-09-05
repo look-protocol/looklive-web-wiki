@@ -1,3 +1,5 @@
+# Biome 설정 방법
+
 1. Biome을 devDependencies로 설치합니다. (패키지 매니저는 pnpm 입니다.)
 ``` zsh
 pnpm add --save-dev --save-exact @biomejs/biome

@@ -1,3 +1,5 @@
+# Commit Message Convention
+
 팀 내부에서는 CHANGELOG를 자동 생성하고 팀 동료에게 좀 더 구조화된 커밋 히스토리를 보여주기 위해 기본적으로 AngularJS commit convention을 기반으로 하는 스펙인 Conventional Commits를 따릅니다.  
 [영어 버전 문서](https://www.conventionalcommits.org/en/v1.0.0/)  
 [한글 버전 문서](https://www.conventionalcommits.org/ko/v1.0.0/)

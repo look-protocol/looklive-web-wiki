@@ -1,3 +1,5 @@
+# Sentry
+
 오류 모니터링을 위해 Sentry를 사용하고 있습니다.  
 주소: [https://sentry.sooplive.com/](https://sentry.sooplive.com/)
 

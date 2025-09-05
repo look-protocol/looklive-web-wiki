@@ -1,3 +1,5 @@
+# Storybook
+
 컴포넌트의 UI나 간단한 기능에 대한 테스트는 Storybook에서 진행합니다.
 
 Storybook Docs의 [get-started 페이지](https://storybook.js.org/docs/get-started/why-storybook)에는 storybook에 대한 내용들이 잘 설명되어 있습니다.

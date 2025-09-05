@@ -1,3 +1,5 @@
+# Cursor Rules
+
 팀 내부에서 cursor를 사용하고 있기 때문에 팀의 공통적인 코드 규칙 같은 부분은 cursor rules로 정의해둘 예정입니다.  
 cursor에게 코드 작성에 대한 질문을 한다면 cursor 자체적으로 rule을 포함해서 질문을 할지에 대한 판단을 진행합니다.  
 
