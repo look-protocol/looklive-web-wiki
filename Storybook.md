@@ -6,7 +6,7 @@ Storybook Docs의 [get-started 페이지](https://storybook.js.org/docs/get-star
 > 스토리북은 UI 구성 요소와 그 스토리를 담은 인터랙티브 디렉터리입니다. 과거에는 앱을 실행하고, 특정 페이지로 이동하고, UI를 적절한 상태로 변형해야 했습니다. 이는 엄청난 시간 낭비일 뿐만 아니라 프런트엔드 개발에도 지장을 줍니다. 스토리북을 사용하면 이러한 모든 단계를 건너뛰고 바로 특정 상태의 UI 구성 요소 작업으로 넘어갈 수 있습니다.
 
 현재 상태에서는 stories 파일은 원본 컴포넌트 파일과 같은 위치에 작성합니다. 직접 stories 파일을 작성하셔도 되지만 storybook의 ui를 이용하셔도 됩니다.
-* Cursor 채팅에서 '@'를 입력하시면 Cursor Rules에서 storybook.md를 넣으실 수 있습니다. 이 Rule과 story를 작성하고 싶으신 컴포넌트를 채팅에 첨부하면 자동으로 팀 내부 규칙에 맞게 story 파일을 생성해줍니다.
+* Cursor 채팅에서 '@'를 입력하시면 Cursor Rules에서 storybook.mdc를 넣으실 수 있습니다. 이 Rule과 story를 작성하고 싶으신 컴포넌트를 채팅에 첨부하면 자동으로 팀 내부 규칙에 맞게 story 파일을 생성해줍니다.
 <img width="797" height="150" alt="image" src="https://github.com/user-attachments/assets/dc4a6304-9ea4-4cfd-b70c-243893935898" />
 
 
