@@ -1,6 +1,6 @@
 MR이 생성되거나 MR에 새로운 커밋이 push 된다면 MR 파이프라인이 작동합니다.  
 이 파이프라인이 성공적으로 진행되어야만 오류가 없는 MR이라고 판단되어 머지가 가능해집니다.  
-![image](uploads/4d5296288c5d5c9ba12ceb4ecefbe449/image.png)
+![image](../../uploads/4d5296288c5d5c9ba12ceb4ecefbe449/image.png)
 
 MR 파이프라인에서 진행되는 내용은 프로젝트 코드베이스 루트의 `.gitlab-ci.yml` 파일에 정의되어 있습니다.  
 ``` yml

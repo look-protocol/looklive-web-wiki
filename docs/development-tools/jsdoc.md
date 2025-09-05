@@ -29,4 +29,4 @@ export default function SelectBox({
 ```
 
 jsdoc 주석을 작성해 주신다면 다른 동료가 해당 함수에 마우스를 올렸을 때 설명이 뜨게 됩니다.  
-![image](uploads/4138e59629f25805c472981f4efa2f8b/image.png)
+![image](../../uploads/4138e59629f25805c472981f4efa2f8b/image.png)
