@@ -19,9 +19,9 @@
 
 ## 프로젝트 구조 및 규칙
 + [디렉토리 구조](docs/project-structure/directory-structure.md)
++ [컴포넌트 구조](docs/project-structure/component-structure.md)
 + [Web FE 네이밍 컨벤션](docs/project-structure/web-fe-naming-convention.md)
 + [Web FE 코드 규칙](docs/project-structure/web-fe-code-rules.md)
-+ [컴포넌트 구조](docs/project-structure/component-structure.md)
 
 ## Git 및 협업
 + [Git flow](docs/git-collaboration/git-flow.md)
