@@ -12,7 +12,8 @@ looklive-web 프로젝트 내부의 모든 컴포넌트는 아토믹 디자인�
 src/components 내부에 `atoms`, `molecules`, `organisms`, `templates` 폴더에 각각의 컴포넌트들을 정리하고
 pages의 경우에는 src/app 디렉토리 내부에 있는 page.tsx를 아토믹 디자인에서의 pages로 취급합니다.
 
-모든 컴포넌트는 컴포넌트의 이름과 같은 폴더를 가지고 있고, 그 폴더는 컴포넌트와 story 파일을 가집니다.
+Atoms를 제외한 모든 컴포넌트는 컴포넌트의 이름과 같은 폴더를 가지고 있고, 그 폴더 내부에는 컴포넌트와 선택적인 story 파일을 가집니다.
+* Atoms는 컴포넌트 이름 대신 컴포넌트의 타입(button, text 등)으로 폴더를 생성합니다.
 
 * 현재는 src/components/atomic 이라는 계층 내부에서 관리하고 있지만 추후 상위로 이동할 예정입니다.
 
