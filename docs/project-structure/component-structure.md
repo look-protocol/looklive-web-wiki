@@ -3,7 +3,7 @@
 ## 아토믹 디자인
 
 looklive-web 프로젝트 내부의 모든 컴포넌트는 아토믹 디자인을 따릅니다.
-(아직은 분류되지 않은 컴포넌트가 존재하지만 곧 수정할 예정입니다.)
+(개발에 필요한 임시 소스는 _temp 에 넣어주세요. 주기적으로 삭제할 예정입니다.)
 
 [기본적인 아토믹 디자인에 대한 설명](https://tech.kakaoent.com/front-end/2022/220505-how-page-part-use-atomic-design-system/)
 
