@@ -36,6 +36,9 @@
 ## 모니터링
 + [Sentry](docs/monitoring/sentry.md)
 
+## 마크다운 작성법
++ [MDX 문법](docs/markdown/mdx.md)
+
 ## React 개발 가이드
 + react query를 사용한 상태 관리 (논의 필요)-[본사 Docs 링크](https://docs.sooplive.com/front/Sooplive[App]/state-management)
 
