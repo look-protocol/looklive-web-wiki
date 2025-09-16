@@ -20,4 +20,5 @@ LOOKLive Web에서는 마크다운 문법을 사용하여 .md 형식의 파일�
 <img width="1081" height="50" alt="image" src="https://github.com/user-attachments/assets/bf579064-9a42-4102-901d-9d3b2171ad0d" />
 
 ## 예시 파일
-[예시 파일 링크](docs/markdown/privacy-policy.md)
+[예시 파일 링크](privacy-policy.md)
+
