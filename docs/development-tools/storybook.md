@@ -2,6 +2,9 @@
 
 컴포넌트의 UI나 간단한 기능에 대한 테스트는 Storybook에서 진행합니다.
 
+* 추가된 기능: Cursor 채팅에서 '@'를 입력하시면 Cursor Rules에서 storybook.mdc를 넣으실 수 있습니다. 이 Rule과 story를 작성하고 싶으신 컴포넌트를 채팅에 첨부하면 자동으로 팀 내부 규칙에 맞게 story 파일을 생성해줍니다.
+<img width="797" height="150" alt="image" src="https://github.com/user-attachments/assets/dc4a6304-9ea4-4cfd-b70c-243893935898" />
+
 Storybook Docs의 [get-started 페이지](https://storybook.js.org/docs/get-started/why-storybook)에는 storybook에 대한 내용들이 잘 설명되어 있습니다.
 > Every piece of UI is now a component. The superpower of components is that you don't need to spin up the whole app just to see how they render. You can render a specific variation in isolation by passing in props, mocking data, or faking events.
 
@@ -23,6 +26,3 @@ localhost:6006으로 접속하신 다음 좌측 상단에서 + 버튼을 클릭�
 
 간단한 추가 기능들은 상단바에 존재합니다.  
 ![image](../../uploads/374516a9d01c8c85747bf772ed54ee3d/image.png)
-
-* 추가된 기능: Cursor 채팅에서 '@'를 입력하시면 Cursor Rules에서 storybook.mdc를 넣으실 수 있습니다. 이 Rule과 story를 작성하고 싶으신 컴포넌트를 채팅에 첨부하면 자동으로 팀 내부 규칙에 맞게 story 파일을 생성해줍니다.
-<img width="797" height="150" alt="image" src="https://github.com/user-attachments/assets/dc4a6304-9ea4-4cfd-b70c-243893935898" />
