@@ -4,82 +4,9 @@
 ``` zsh
 pnpm add --save-dev --save-exact @biomejs/biome
 ```
-2. Biome init을 실행합니다.
-``` zsh
-pnpm biome init
-```
-3. biome.json 파일을 팀 규칙으로 변경합니다.
-``` json
-{
-  "$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
-  "vcs": {
-    "enabled": true,
-    "clientKind": "git",
-    "useIgnoreFile": true
-  },
-  "files": {
-    "ignoreUnknown": true,
-    "ignore": []
-  },
-  "formatter": {
-    "enabled": true,
-    "formatWithErrors": false,
-    "indentStyle": "space",
-    "indentWidth": 2,
-    "lineEnding": "lf",
-    "lineWidth": 320,
-    "attributePosition": "auto",
-    "useEditorconfig": false
-  },
-  "organizeImports": {
-    "enabled": true
-  },
-  "linter": {
-    "enabled": true,
-    "rules": {
-      "recommended": true,
-      "complexity": {
-        "useDateNow": "error",
-        "useSimplifiedLogicExpression": "error"
-      },
-      "correctness": {
-        "noConstantMathMinMaxClamp": "error",
-        "noUnusedFunctionParameters": "error",
-        "useImportExtensions": "error"
-      },
-      "nursery": {
-        "noDocumentCookie": "error",
-        "noDuplicateElseIf": "error",
-        "noEnum": "error",
-        "noHeadElement": "error",
-        "noIrregularWhitespace": "error",
-        "noNestedTernary": "error",
-        "noStaticElementInteractions": "error",
-        "useGuardForIn": "error",
-        "useTrimStartEnd": "error"
-      },
-      "style": {
-        "useForOf": "error",
-        "useImportType": "off"
-      },
-      "suspicious": {
-        "noEvolvingTypes": "error",
-        "useAwait": "error"
-      }
-    }
-  },
-  "javascript": {
-    "formatter": {
-      "quoteStyle": "double",
-      "jsxQuoteStyle": "double",
-      "quoteProperties": "asNeeded"
-    }
-  }
-}
-```
-4. Cursor에서 Biome 공식 익스텐션을 설치합니다.
+2. Cursor에서 Biome 공식 익스텐션을 설치합니다.
 ![biome_extension](../../uploads/85a1af721e8ca7c6d58f1d2a1e17bacc/biome_extension.png)
-5. Cursor의 기본 포매터를 Biome으로 변경합니다.
+3. Cursor의 기본 포매터를 Biome으로 변경합니다.
 	1. Cursor 에디터 우측 위 설정 버튼을 누릅니다.
 ![setting](../../uploads/fdab7978cf49a4500b9cffcc8b8e28e5/setting.png)
 	2. Editor Settings로 이동합니다.
