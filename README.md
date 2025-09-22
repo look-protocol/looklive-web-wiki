@@ -39,6 +39,10 @@
 ## 마크다운 작성법
 + [MDX 문법](docs/markdown/mdx.md)
 
+## i18n
++ [Locale 설정 플로우](docs/i18n/locale-flow.md)
++ [언어 설정 적용](docs/i18n/set-language.md)
+
 ## React 개발 가이드
 + react query를 사용한 상태 관리 (논의 필요)-[본사 Docs 링크](https://docs.sooplive.com/front/Sooplive[App]/state-management)
 
